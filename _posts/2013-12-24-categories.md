@@ -5,6 +5,12 @@ categories:
 - Foo
 - Bar
 - Baz
+- Test
+- Java
+- Thinking
+- Python
+- R
+- ZF
 ---
 
-This post contains 3 categories. Make sure your theme can display all of the categories.
+This post contains 6 categories. Make sure your theme can display all of the categories.
